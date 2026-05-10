@@ -49,3 +49,38 @@ El proyecto se desarrolla utilizando la metodología ágil **Scrum**, organizada
 ## Impacto
 
 Te Cuido busca aportar al bienestar social y al fortalecimiento del cuidado domiciliario mediante innovación digital, promoviendo servicios de salud más accesibles, seguros y eficientes.
+
+---
+
+## Cargue de la app
+![Carga de la app](assets/1.png)
+
+## Inicio
+![Inicio](assets/2.png)
+
+## Login
+![Login](assets/3.png)
+
+## Registrarse
+![Registrarse](assets/4.png)
+
+## Restablecer contraseña
+![Restablecer contraseña](assets/5.png)
+
+## Home
+![Home](assets/6.png)
+
+## Chat
+![Chat](assets/7.png)
+
+## Calendario
+![Calendario](assets/8.png)
+
+## Perfil
+![Perfil](assets/9.png)
+
+## Buscar cuidadores
+![Buscar cuidadores](assets/10.png)
+
+## Favoritos
+![Favoritos](assets/11.png)
